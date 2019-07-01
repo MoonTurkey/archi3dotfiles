@@ -1,0 +1,62 @@
+{
+   "checksum": "ae4e95ab7a802fad5e4f33d547505022",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13203523576295477",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13203523576295487",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "2",
+      "synced": {
+         "children": [ {
+            "date_added": "13191513054799045",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13200557215589975",
+               "last_visited_desktop": "13204931849926696"
+            },
+            "name": "FSG Arcania craft Server Map",
+            "sync_transaction_version": "2",
+            "type": "url",
+            "url": "http://arcania.funsquaregames.com:25663/#"
+         }, {
+            "date_added": "13194204095359907",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13194904405850387"
+            },
+            "name": "supercube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://avaver.github.io/"
+         }, {
+            "date_added": "13154030549709970",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13154896133223462"
+            },
+            "name": "Eulen Mythoswald | Mamilade Ausflugsziele",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.mamilade.at/noe/waidhofen-ybbs/ausflugstipps/tiergarten/eulen-mythoswald"
+         } ],
+         "date_added": "13203523576295489",
+         "date_modified": "13194204095359907",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

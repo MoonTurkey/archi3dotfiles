@@ -1,0 +1,6 @@
+2019/06/28-22:09:33.337 ef8 Recovering log #12
+2019/06/28-22:09:33.347 ef8 Level-0 table #14: started
+2019/06/28-22:09:33.395 ef8 Level-0 table #14: 797 bytes OK
+2019/06/28-22:09:33.522 ef8 Delete type=0 #12
+2019/06/28-22:09:33.522 ef8 Delete type=3 #10
+2019/06/28-22:09:33.624 f18 Moved #5 to level-1 1358 bytes OK: files[ 3 1 0 0 0 0 0 ]
